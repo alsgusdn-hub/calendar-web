@@ -23,4 +23,6 @@ node --test tests/calendar.test.js
 ```
 
 ## GitHub Pages 배포
+배포 주소: https://alsgusdn-hub.github.io/calendar-web/
+
 저장소 Settings → Pages에서 `main` 브랜치의 루트(`/`)를 선택하면 바로 배포됩니다.
